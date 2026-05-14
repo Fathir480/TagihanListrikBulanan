@@ -1,6 +1,6 @@
 # TagihanListrikBulanan
 
-Projek ini adalah sebuah studycase yang saya selesaikan sebagai latihan saya. Latihan ini dirancang oleh Ai sebagai berikut:
+Projek ini adalah sebuah studycase yang saya selesaikan sebagai latihan. Adapun Kasusnya dirancang oleh Ai sebagai berikut:
 
 ### Skenario dan Latar Belakang
 Kamu baru saja direkrut sebagai developer junior di sebuah koperasi perumahan.
