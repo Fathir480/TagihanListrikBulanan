@@ -10,7 +10,6 @@ Tugasmu: buat program CLI sederhana yang bisa menerima input pemakaian listrik (
 
 ### Data Tarif
 Golongan |	Pemakaian (kWh/bln) |	Tarif per kWh |	Abodemen/bln |	Kondisi Status
------------------------------------------------------------
 R-1 |	0 – 100 kWh |	Rp 1.352 |	Rp 15.000 |	Rendah: < Rp 100k
 Normal: Rp 100k–150k
 Tinggi: > Rp 150k
